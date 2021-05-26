@@ -148,7 +148,7 @@ From NashvilleHousing
 Select *
 From RowNumCTE
 Where row_num > 1
---Order by PropertySplitAddress
+Order by PropertySplitAddress
 
 
 
